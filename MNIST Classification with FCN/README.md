@@ -1,2 +1,5 @@
-# machine_learning_projects
-Collection of machine learning project using PyTorch
+# MNIST Classification with FCN
+
+
+Classify handwritten digits using fully connected archecture.
+

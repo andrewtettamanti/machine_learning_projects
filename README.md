@@ -1,2 +1,5 @@
-# machine_learning_projects
-Collection of machine learning project using PyTorch
+# Machine Learning Projects
+
+Collection of machine learning projects mainly using PyTorch.
+
+Most datasets used are not included to save space.

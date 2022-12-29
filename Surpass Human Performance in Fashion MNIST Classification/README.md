@@ -1,2 +1,3 @@
-# machine_learning_projects
-Collection of machine learning project using PyTorch
+# Surpass Human Performance in Fashion MNIST Classificaion
+
+Classify fashtion item using a Convolutional Neural Network Architecture.

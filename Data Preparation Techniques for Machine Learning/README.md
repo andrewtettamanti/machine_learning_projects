@@ -1,2 +1,9 @@
-# machine_learning_projects
-Collection of machine learning project using PyTorch
+# Data Preparation Techniques for Machine Learning
+
+Practice with python
+- Scale Data With Standard Scaling
+
+- Split Data into sub-arrays
+
+
+

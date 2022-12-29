@@ -1,2 +1,5 @@
-# machine_learning_projects
-Collection of machine learning project using PyTorch
+# Audio Filtering with Gated RNNs
+
+
+Uses a gated RNN (LSTM) to filter the right channel of an audio sample.
+
